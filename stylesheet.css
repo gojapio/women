@@ -1,0 +1,40 @@
+body {
+	font-family: Helvetica;
+}
+
+#headline {
+	text-align: center;
+}
+	
+#headline img {
+	max-width: 45%;
+	margin-top : -80px;
+	}
+
+#content {
+	float : left;
+	max-width : 45%;
+	margin-left: 50px;
+	padding: 20px;
+	}
+
+#content th {
+	padding : 20px;
+}
+
+#content table td img {
+	width : 100px;
+}
+
+#clover {
+	float : right;
+	text-align: center;
+	max-width : 45%;
+	font-weight: bold;
+	padding-right : 50px;
+}
+
+#clover td {
+	padding : 4px;
+}
+	
